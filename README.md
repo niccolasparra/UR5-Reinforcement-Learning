@@ -26,11 +26,13 @@ This project implements, tunes, and benchmarks two state-of-the-art deep reinfor
 
 ## Demo
 
-[https://github.com/user-attachments/assets/td3-ur5-demo.mp4](https://github.com/niccolasparra/UR5-Reinforcement-Learning/issues/1#issue-4107960304)
+<p align="center">
+  <video src="[https://github.com/user-attachments/assets/td3-ur5-demo.mp4](https://github.com/niccolasparra/UR5-Reinforcement-Learning/issues/1#issue-4107960304)" controls autoplay loop muted width="720">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 > _A trained agent controlling the UR5 arm to reach a target pose in real time._
->
-> **To add your own demo:** replace the link above with a video uploaded to GitHub (drag an `.mp4` into an Issue or PR, then copy the generated URL).
 
 ---
 
