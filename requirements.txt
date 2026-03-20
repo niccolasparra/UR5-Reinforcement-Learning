@@ -1,0 +1,12 @@
+torch>=2.0
+gymnasium>=1.0
+mujoco>=3.0
+dm_control>=1.0
+wandb
+tensorboard
+numpy
+scipy
+opencv-python
+glfw
+tyro
+mujoco-python-viewer
