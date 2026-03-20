@@ -26,7 +26,7 @@ This project implements, tunes, and benchmarks two state-of-the-art deep reinfor
 
 ## Demo
 
-https://github.com/user-attachments/assets/td3-ur5-demo.mp4
+[https://github.com/user-attachments/assets/td3-ur5-demo.mp4](https://github.com/niccolasparra/UR5-Reinforcement-Learning/issues/1#issue-4107960304)
 
 > _A trained agent controlling the UR5 arm to reach a target pose in real time._
 >
